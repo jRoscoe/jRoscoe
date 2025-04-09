@@ -14,3 +14,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<Table border=1 bordercolor = "pink" bgcolor = "yellow" >
+<TR>
+<TD>
+<H1><B>Some Info</B></H1>
+<OL>
+<LI>I teach for CPS
+<LI>Hometown- Not something I want to make public......
+<LI>Computer Science
+<LI>Contact info - Not at this time
+<LI> I teach CS
+</OL>
+</TD>
+<TR>
+<TD>
+First tech owned? 
+<BR>
+<a href = "https://en.wikipedia.org/wiki/Tamagotchi" style="color:orange;">
+Tomagotchi
+</a>
+</TD>
+</TR>
+</Table>
