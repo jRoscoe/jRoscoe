@@ -37,3 +37,7 @@ Tomagotchi
 </TD>
 </TR>
 </Table>
+
+<input type="checkbox" id="vehicle1" name="vehicle1" value="Bike">
+<label for="vehicle1"> checkbox</label><br>
+<img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH93ycRvcPrY05geK8m9juZvD6TlQvhXK7Og&s">
