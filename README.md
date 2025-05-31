@@ -20,10 +20,11 @@ Here are some ideas to get you started:
 <TD>
 <H1><B>Some Info</B></H1>
 <OL>
-<LI>I teach for CPS
+<LI>I teach for shhhhhhh
 <LI>Hometown- Not something I want to make public......
 <LI>Computer Science
 <LI>Contact info - Not at this time
+<LI> <a href= "https://www.grumpycats.com/"> Grumpy Cat Website </a>
 <LI> I teach CS
 </OL>
 </TD>
