@@ -14,16 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<div style="background-color: black; padding: 10px;">
 <Table border=1 bordercolor = "pink" bgcolor = "yellow" >
 <TR>
 <TD>
 <H1><B>Some Info</B></H1>
 <OL>
-<LI>I teach for CPS
+<LI>I teach for shhhhhh
 <LI>Hometown- Not something I want to make public......
 <LI>Computer Science
 <LI>Contact info - Not at this time
+<LI> <a href= "https://www.grumpycats.com/"> Grumpy Cat Website </a>
 <LI> I teach CS
 </OL>
 </TD>
@@ -39,5 +40,7 @@ Tomagotchi
 </Table>
 
 <input type="checkbox" id="vehicle1" name="vehicle1" value="Bike">
-<label for="vehicle1"> checkbox</label><br>
+<label for="vehicle1"> <font color = "white"> checkbox</font></label><br>
 <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH93ycRvcPrY05geK8m9juZvD6TlQvhXK7Og&s">
+</div>
+</Body>
